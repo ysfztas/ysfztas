@@ -8,10 +8,12 @@ Full-stack web ve masaüstü geliştirici.
 
 | Proje | Ne yapar | Teknolojiler |
 |---|---|---|
-| [**Mobilya E-Ticaret**](https://github.com/ysfztas/mobilya-eticaret-showcase) | Çok dilli satış sitesi, 2FA'lı admin paneli, ödeme altyapısı | Node.js · Express · MongoDB |
+| [**Profil Rehberi Platformu**](https://github.com/ysfztas/profil-rehberi-showcase) | Çok ülkeli profil rehberi, dinamik başvuru formu, ücretli öne çıkarma, çoklu ödeme sağlayıcı | Node.js · Express · MongoDB |
+| [**Mobilya E-Ticaret**](https://github.com/ysfztas/mobilya-eticaret-showcase) | Satış sitesi, 2FA'lı admin paneli, sipariş takibi | Node.js · Express · MongoDB |
 | [**Bal E-Ticaret**](https://github.com/ysfztas/bal-eticaret-showcase) | Üyelik, sepet, sipariş, stok, e-posta bildirimleri | Node.js · Express · MongoDB |
 | [**Uçuş Rezervasyon**](https://github.com/ysfztas/flight-reservation-showcase) | Uçuş arama, PNR, check-in, admin paneli | Node.js · SQL Server · T-SQL |
 | [**Geciken Ödeme SMS**](https://github.com/ysfztas/sms-hatirlatma-showcase) | NetGSM ile toplu ve zamanlanmış SMS hatırlatma | Node.js · MongoDB · EJS |
+| [**Etkinlik Rezervasyon**](https://github.com/ysfztas/etkinlik-rezervasyon-showcase) | Etkinlik sitesi, admin paneli, WinForms yönetim uygulaması | Node.js · Express · C# |
 
 ## Diğer projeler
 
