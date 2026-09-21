@@ -15,12 +15,12 @@ Full-stack web and desktop developer.
 | [**Geciken Ödeme SMS**](https://github.com/ysfztas/sms-hatirlatma-showcase) · [canlı](https://sms.oztasmobilya.com) | NetGSM ile toplu ve zamanlanmış SMS hatırlatma | Node.js · MongoDB · EJS |
 | [**Etkinlik Rezervasyon**](https://github.com/ysfztas/etkinlik-rezervasyon-showcase) | Etkinlik sitesi, admin paneli, WinForms yönetim uygulaması | Node.js · Express · C# |
 
-## Diğer projeler
+## Masaüstü projeleri
 
 | Proje | Ne yapar | Teknolojiler |
 |---|---|---|
-| [**Avukat AI**](https://github.com/ysfztas/avukat-ai-showcase) | Dava dosyası asistanı, gizlilik öncelikli LLM | Electron · React · FastAPI |
-| [**KORGAN**](https://github.com/ysfztas/korgan-showcase) | Gerçek zamanlı hedef tespit arayüzü | C# · WPF · ONNX · OpenCV |
+| [**Avukat AI**](https://github.com/ysfztas/avukat-ai-showcase) | Yapay zekâ destekli dava dosyası asistanı | Electron · React · Python |
+| [**KORGAN**](https://github.com/ysfztas/korgan-showcase) | Görüntü işleme tabanlı kontrol arayüzü | C# · WPF · .NET |
 
 ## Teknolojiler
 
