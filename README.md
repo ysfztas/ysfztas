@@ -15,16 +15,6 @@ Full-stack web ve masaüstü geliştirici.
 | [**Geciken Ödeme SMS**](https://github.com/ysfztas/sms-hatirlatma-showcase) | NetGSM ile toplu ve zamanlanmış SMS hatırlatma | Node.js · MongoDB · EJS |
 | [**Etkinlik Rezervasyon**](https://github.com/ysfztas/etkinlik-rezervasyon-showcase) | Etkinlik sitesi, admin paneli, WinForms yönetim uygulaması | Node.js · Express · C# |
 
-### Ekran görüntüleri
-
-**Profil Rehberi Platformu**
-
-<p>
-  <img src="https://raw.githubusercontent.com/ysfztas/profil-rehberi-showcase/main/screenshots/site.png" width="180">
-  <img src="https://raw.githubusercontent.com/ysfztas/profil-rehberi-showcase/main/screenshots/admin-basvurular.png" width="180">
-  <img src="https://raw.githubusercontent.com/ysfztas/profil-rehberi-showcase/main/screenshots/admin-menu-1.png" width="180">
-</p>
-
 ## Diğer projeler
 
 | Proje | Ne yapar | Teknolojiler |
