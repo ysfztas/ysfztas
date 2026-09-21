@@ -6,7 +6,7 @@ Full-stack web and desktop developer.
 
 ## Web projeleri
 
-| Proje | Ne yapar | Teknolojiler |
+| Proje | Nedir | Teknolojiler |
 |---|---|---|
 | [**Mobilya E-Ticaret**](https://github.com/ysfztas/mobilya-eticaret-showcase) · [canlı](https://oztasmobilya.com) | Satış sitesi, 2FA'lı admin paneli, sipariş takibi | Node.js · Express · MongoDB |
 | [**Bal E-Ticaret**](https://github.com/ysfztas/bal-eticaret-showcase) · [canlı](https://narbal.com) | Üyelik, sepet, sipariş, stok, e-posta bildirimleri | Node.js · Express · MongoDB |
