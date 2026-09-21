@@ -1,8 +1,8 @@
 # Yusuf Eren Öztaş
 
-Full-stack web ve masaüstü geliştirici.
+Full-stack web and desktop developer.
 
-Kodlar private; tanıtım sayfaları ve canlı siteler aşağıda.
+
 
 ## Web projeleri
 
