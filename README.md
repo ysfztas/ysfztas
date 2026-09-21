@@ -2,7 +2,7 @@
 
 Full-stack web ve masaüstü geliştirici.
 
-> Kaynak kodlar private; her projenin tanıtım sayfası aşağıda. İstek üzerine demo yapılabilir.
+Kodlar private; tanıtım sayfaları ve canlı siteler aşağıda.
 
 ## Web projeleri
 
